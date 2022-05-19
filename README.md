@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @GraysonCW
+- 👀 I’m interested in being a sponge
+- 🌱 I’m currently learning Python
+- 💞️ I’m looking to collaborate on projects using python to do data analysis
+- 📫 How to reach me: https://www.linkedin.com/in/grayson-c-willow
